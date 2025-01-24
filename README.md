@@ -1,12 +1,12 @@
-# FlavorSome
+# FlavourSome
 
-Never miss out on any new food and dishes idea. Share your own reciepies and read others' with FlavorSome.
+Never miss out on any new food and dishes idea. Share your own reciepies and read others' with FlavourSome.
 
 ![Recipe](./images/recipe-1.png)
 
 # Introduction
 
- FlavorSome allows you to view various delicious recipes shared by the users and gives you the privilege to share your recipe too!
+ FlavourSome allows you to view various delicious recipes shared by the users and gives you the privilege to share your recipe too!
 
 Grab this opportunity now and show the world how amazing your recipes are!
 
@@ -23,13 +23,13 @@ Search for what you want to cook and Hurray! Impress others with mouth-watering 
 To clone copy the following command in your terminal and start development.
 
 ```sh
-git clone https://github.com/akshatmittal61/flavorsome.git
+git clone https://github.com/Pratham5555/FlavourSome.git
 ```
 
 cd into the directory
 
 ```sh
-cd flavorsome
+cd flavoursome
 ```
 
 Install all the dependencies
@@ -67,9 +67,5 @@ Building the .env
 
 # Author
 
-- [Akshat Mittal](https://akshatmittal61.vercel.app)
+Pratham Maheshwari
 
-# Other Resources
-
-- [FlavorSome Plan](https://docs.google.com/document/d/1Y7bzRBCu1durVcao_jtrZwMTV3Ja2rc97ONm1hG7OH8/)
-- [Figma Prototype](https://www.figma.com/file/nUxAyzwv9jfa1J1Wzb75B3/FlavorSome)
